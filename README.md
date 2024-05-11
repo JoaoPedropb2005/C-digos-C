@@ -1,2 +1,2 @@
-# C-digos-C
+# Códigos-C
 Códigos em Linguagem C
